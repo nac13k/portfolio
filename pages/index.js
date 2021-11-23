@@ -63,7 +63,7 @@ const Page = () => {
 
         <BioSection>
           <BioYear>2018</BioYear>
-            Took a course about Scrum Master given by
+            Took a Scrum Master course given by
           <BioCompany>CertiProf</BioCompany>
         </BioSection>
 
@@ -75,7 +75,7 @@ const Page = () => {
 
         <BioSection>
           <BioYear>2020</BioYear>
-            Took PKI Cryptography course given by
+            Took a course about PKI Cryptography given by
           <BioCompany>Factory Tec</BioCompany>
         </BioSection>
 
