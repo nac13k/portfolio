@@ -1,5 +1,5 @@
 import { Container, Grid } from "@chakra-ui/react"
-import useSWR, { SWRConfig } from "swr"
+import useSWR from "swr"
 import ProjectPreview from '../../components/project-preview'
 import fetcher from '../../lib/fetcher'
 

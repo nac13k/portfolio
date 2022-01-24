@@ -1,7 +1,8 @@
 import { Box, Image, Heading, GridItem } from "@chakra-ui/react"
 import Section from './section'
 
-const ProjectPreview = ({project, showPath}) => {
+// const ProjectPreview = ({project, showPath}) => {
+const ProjectPreview = ({project}) => {
   return (
     <GridItem>
       <Section>
