@@ -5,7 +5,7 @@ import MenuConfig from '../../lib/menu-config'
 import Navbar from './navbar'
 
 
-const Main = ({ children, router }) => {
+const Main = ({ children }) => {
   return (
     <>
       <Navbar links={MenuConfig.routes} brandName={MenuConfig.brandName}></Navbar>
